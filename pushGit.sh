@@ -21,7 +21,7 @@ clon2=${3}
    fi
 
 # Configuracion gobal del repositorio
-   git config --global user.email "juandiegobrda48@gmail.com"
+   git config --global user.email "juandiegoborda48@gmail.com"
    git config --global user.name "Scofield"
    git config --global core.autocrlf false
 
