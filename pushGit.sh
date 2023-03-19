@@ -43,13 +43,13 @@ clon2=${3}
       echo "inicia carga en git"
       echo "--------------------------------------------"   
          git status
-         echo "- Reporte Status----------------------------"
+         echo "- Reporte del Status----------------------------"
       read -p "Press [Enter] key to continue..." readEnterKey
 
    # Add todo slo scambios de la carpeta actual
       echo "--------------------------------------------"   
          git add .
-         echo "- Agregar cambios locales ------------------"
+         echo "- Agregar cambios locales actuales------------------"
       read -p "Press [Enter] key to continue..." readEnterKey
    
    # Agregar Comentario
